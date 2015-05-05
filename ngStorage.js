@@ -51,7 +51,6 @@
                     }
                 }
 
-                Modernizr.localStorageHasRoom = lsTest();
 
                 var $storage = {};
                 if(!lsTest()){
